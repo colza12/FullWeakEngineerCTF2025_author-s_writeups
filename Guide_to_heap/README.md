@@ -7,7 +7,8 @@ However, as it is a template problem, I believe it remains within the scope of b
 
 ## Result
 Solved: 28  
-Points: 383  
+Points: 383
+
 1st: syn9(sknb)  
 2nd: 0xM4hm0ud(The Trio)  
 3rd: 5unsetpowerln(TPC)
