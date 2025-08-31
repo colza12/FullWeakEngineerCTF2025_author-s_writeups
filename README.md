@@ -1,2 +1,2 @@
-# FullWeakEngineerCTF2025_author-s_writeups
+# Full Weak Engineer CTF 2025 author's writeups
 These are writeups by Full Weak Engineer CTF 2025 challenge author.
