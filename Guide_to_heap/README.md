@@ -1,4 +1,4 @@
-# Guide to heap
+# Guide to heap : pwn
 
 This problem was generated using ChatGPT. No modifications have been made to the original source code.  
 Originally, as the title suggests, I intended this to be a beginner-friendly heap problem where simply following the instructions would allow you to obtain the flag.  
