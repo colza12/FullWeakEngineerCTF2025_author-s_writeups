@@ -18,9 +18,10 @@ Points: 344
 Kappa always swim in chains. However, due to a mysterious force, one kappa was swept away by the river. Rescue the kappa that was swept away and receive a treasure as a reward!  
 `nc chal1.fwectf.com 8020`
 
-Difficulty: medium
-Attachment: [VulnerableBank.sol](VulnerableBank.sol)  
-            [Setup.sol](Setup.sol)
+Difficulty: medium  
+Attachment:
+* [VulnerableBank.sol](VulnerableBank.sol)  
+* [Setup.sol](Setup.sol)
 
 ## writeup
 
