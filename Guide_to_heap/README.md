@@ -17,6 +17,7 @@ Points: 383
 We will guide you to the door of the heap world!  
 `nc chal1.fwectf.com 8010`
 
+Difficulty: easy
 Attachment: [guide_to_heap.zip](guide_to_heap.zip)
 
 ## writeup
