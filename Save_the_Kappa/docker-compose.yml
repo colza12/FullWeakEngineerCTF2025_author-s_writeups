@@ -1,0 +1,14 @@
+services:
+  challenge:
+    build: .
+    container_name: save_the_kappa
+    ports:
+      - "8545:8545"
+      - "31337:31337"
+    environment:
+      - ENV=production
+      - DISABLE_POW=1
+      - PUBLIC_IP=127.0.0.1
+      - HTTP_PORT=8545
+      - RPC_URL=http://127.0.0.1:8545
+      - FLAG=fwectf{************}
