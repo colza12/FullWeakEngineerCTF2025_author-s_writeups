@@ -3,16 +3,17 @@
 This challenge was created incidentally during my visit to Scandinavia.
 
 ## Result
-Solved:   
-Points: 
+Solved: 189  
+Points: 147
 
-1st: ()  
-2nd: ()  
-3rd: ()
+1st: Ofeking673(pulsaDeCyber)  
+2nd: ares(Lil L3ak)  
+3rd: thesanjok(pwn0rDi3)
 
 ## Challenge
-We will guide you to the door of the heap world!  
-`nc chal1.fwectf.com 8010`
+Which country is this?  
+Answer the country name using ISO 3166-1 alpha-3.  
+Flag format: `fwectf{FWE}`
 
 Difficulty: medium
 Attachment: [EXIT.jpg](EXIT.jp)
