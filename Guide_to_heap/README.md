@@ -27,6 +27,7 @@ Knowing the following will enable you to solve it:
 * double free, UAF
 * tcache poisoning
 * libc leak
+* GOT Overwrite
 * ROP
 
 Below is the executable code:
