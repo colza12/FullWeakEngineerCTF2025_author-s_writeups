@@ -20,8 +20,8 @@ Kappa always swim in chains. However, due to a mysterious force, one kappa was s
 
 Difficulty: medium  
 Attachment:
-* [VulnerableBank.sol](VulnerableBank.sol)  
-* [Setup.sol](Setup.sol)
+・ [VulnerableBank.sol](VulnerableBank.sol)  
+・ [Setup.sol](Setup.sol)
 
 ## writeup
 
