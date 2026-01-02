@@ -16,7 +16,7 @@ Answer the country name using ISO 3166-1 alpha-3.
 Flag format: `fwectf{FWE}`
 
 Difficulty: medium
-Attachment: [EXIT.jpg](EXIT.jp)
+Attachment: [EXIT.jpg](EXIT.jpg)
 
 ## writeup
 
