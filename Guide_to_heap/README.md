@@ -30,7 +30,7 @@ Knowing the following will enable you to solve it:
 * GOT Overwrite
 * ROP
 
-Below is the executable code:
+Below is the executable code (by ryhtbsh):
 ```python solver.py
 from pwn import *
 
